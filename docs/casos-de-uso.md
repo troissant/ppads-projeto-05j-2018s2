@@ -1,6 +1,6 @@
 # Casos de uso
 
-## CDU001
+## CDU001 > Efetuar Pedido
 
 ### Fluxo principal
 
@@ -13,9 +13,7 @@
 7. Cliente efetua a compra
 8. Sistema retorna dados do pedido (código, informações, etc...)
 
-## CDU002
-
-### Fluxo principal
+  ### Fluxo alternativo 
 
 1. Cliente entra no sistema (login)
 2. Cliente navega no menu e procura farmácia X e farmácia Y
@@ -28,9 +26,7 @@
 9. Cliente paga o boleto bancário
 10. Sistema aguarda o pagamento do boleto e retorna dados do pedido (código, informações, etc...)
 
-## CDU003
-
-### Fluxo principal
+  ### Fluxo alternativo
 
 1. Cliente navega pelo catálogo de farmácia X e seleciona os itens e quantidades a serem comprados
 2. Cliente vai para o Checkout
@@ -40,3 +36,19 @@
 6. Cliente insere os dados do cartão de crédito para a compra
 7. Cliente efetua a compra
 8. Sistema retorna os dados do pedido (código, informações, etc...)
+
+
+## CDU002 > Acompanhar Pedido
+
+1. Cliente entra no sistema (login)
+2. Cliente vai no Menu da conta e seleciona Meus Pedidos 
+3. Sistema retorna lista de Pedidos da conta
+4. Cliente seleciona Pedido para acompanhar
+5. Sistema retorna dados do pedido selecionado (itens, horário da compra, status, etc...)
+
+## CDU003 > Consultar Histórico
+
+1. Cliente entra no sistema (login)
+2. Cliente vai no Menu da conta e seleciona Meus Pedidos
+3. Sistema retorna lista de Pedidos da conta 
+4. Cliente visualiza histórico de Pedidos 
