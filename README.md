@@ -3,8 +3,8 @@
 
 ### Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Lucas Dinalli
+* Mariana Francischetti
+* Mateus Nunes
+* Pedro Rocha
+* Victor Martins
