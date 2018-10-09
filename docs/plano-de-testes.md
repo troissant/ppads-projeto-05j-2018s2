@@ -6,7 +6,7 @@
    Objetivo do teste -> Funcionário deverá testar a funcionalidade de se cadastrar no ambiente
    Requisitos Motivação -> O sistema deverá permitir que o usuário se cadastre 
 
-* 2. Tipo de teste -> Funcional
+* 2. Tipo de teste -> Funcional;
    Objetivo do teste -> Funcionário deverá testar a funcionalidade de se logar no ambiente
    Requisitos Motivação -> O sistema deverá permitir que o usuário se logue no ambiente
 
