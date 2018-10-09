@@ -2,8 +2,8 @@
 
 ### Objetivo: O objetivo deste plano de testes é procurar possíveis falhas ou bugs presentes na aplicação, além de ensinar de uma maneira fácil e intuitiva o usuário que está testando-o.
 
- 1 - Tipo de teste -> Funcional
-   Objetivo do teste -> Funcionário deverá testar a funcionalidade de se cadastrar no ambiente
+ 1 - Tipo de teste -> Funcional  
+   Objetivo do teste -> Funcionário deverá testar a funcionalidade de se cadastrar no ambiente  
    Requisitos Motivação -> O sistema deverá permitir que o usuário se cadastre 
 
  2 - Tipo de teste -> Funcional;
