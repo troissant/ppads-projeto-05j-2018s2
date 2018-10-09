@@ -10,19 +10,19 @@
    Objetivo do teste -> Funcionário deverá testar a funcionalidade de se logar no ambiente
    Requisitos Motivação -> O sistema deverá permitir que o usuário se logue no ambiente
 
-3. Tipo de teste -> Funcional
+* 3. Tipo de teste -> Funcional
    Objetivo do teste -> Funcionário deverá testar a funcionalidade de realizar uma busca de farmácias
    Requisitos Motivação -> O sistema deverá permitir que o usuário busque as farmácias e retorne algum resultado
 
-4. Tipo de teste -> Funcional
+* 4. Tipo de teste -> Funcional
    Objetivo do teste -> Funcionário deverá testar a funcionalidade de listagem dos produtos no ambiente
    Requisitos Motivação -> O sistema deverá permitir a listagem de todos os produtos presentes naquela determinada busca
 
-5. Tipo de teste -> Funcional
+* 5. Tipo de teste -> Funcional
    Objetivo do teste -> Funcionário deverá testar a funcionalidade de adicionar produtos no carrinho
    Requisitos Motivação -> O sistema deverá permitir que o usuário adicione os produtos no carrinho, sem excluí-los ou limpá-los
 
-6. Tipo de teste -> Funcional
+* 6. Tipo de teste -> Funcional
    Objetivo do teste -> Funcionário deverá testar as funcionalidades de gerenciamento presentes no carrinho
    Requisitos Motivação -> O sistema deverá permitir que o usuário gerencie os produtos presentes no carrinho de compras
    
