@@ -1,6 +1,6 @@
 # Plano de Testes 
 
-### Objetivo:<br><br>O objetivo deste plano de testes é procurar possíveis falhas ou bugs presentes na aplicação, além de ensinar de uma maneira fácil e intuitiva o usuário que está testando-o. <br>
+### Objetivo:<br><br>O objetivo deste plano de testes é procurar possíveis falhas ou bugs presentes na aplicação, além de ensinar de uma maneira fácil e intuitiva o usuário que está testando-o. <br><br>
 
 ### Plano de Testes do caso de uso Acompanhar Pedido: <br><br> 
 O Usuário entra no sistema e em seguida clica em Farmácias, o sistema deverá retornar 2 (duas) farmácias, a Drogaraia e Drogasil. 
