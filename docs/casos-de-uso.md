@@ -4,7 +4,7 @@
 
 ### Fluxo principal
 
-1. Cliente entra no sistema (login)
+1. Cliente entra no sistema
 2. Cliente navega pelo catálogo de farmácia X e seleciona os itens e quantidades a serem comprados 
 3. Cliente vai para o Checkout
 4. Cliente confirma endereço de entrega
@@ -15,7 +15,7 @@
 
   ### Fluxo alternativo 
 
-1. Cliente entra no sistema (login)
+1. Cliente entra no sistema
 2. Cliente navega no menu e procura farmácia X e farmácia Y
 3. Cliente navega pelo catálogo das farmácias X e Y e encontra um remédio em farmácia X e dois em Y
 4. Cliente seleciona os itens a serem comprados
@@ -40,7 +40,7 @@
 
 ## CDU002 > Acompanhar Pedido
 
-1. Cliente entra no sistema (login)
+1. Cliente entra no sistema
 2. Cliente vai no Menu da conta e seleciona Meus Pedidos 
 3. Sistema retorna lista de Pedidos da conta
 4. Cliente seleciona Pedido para acompanhar
@@ -48,7 +48,7 @@
 
 ## CDU003 > Consultar Histórico
 
-1. Cliente entra no sistema (login)
+1. Cliente entra no sistema
 2. Cliente vai no Menu da conta e seleciona Meus Pedidos
 3. Sistema retorna lista de Pedidos da conta 
 4. Cliente visualiza histórico de Pedidos 
