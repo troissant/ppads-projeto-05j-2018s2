@@ -21,8 +21,15 @@
 ->Após isso, o usuário deverá avaliar o sistema para acessar a página novamente e em seguida clique em Meus pedidos.<br> 
 ->O sistema deverá retornar uma lista de pedidos feitos juntamente com seus status.  <br><br>
 
+### Acompanhar Pedido
+
+#### 1.
+-> O Usuário entra no sistema e em seguida clica em Meus Pedidos.<br>
+-> Em seguida o usuário clica em um dos pedidos para acompanhá-lo.<br>
+-> O sistema deverá retornar alguns dados do pedido que o usuário selecionou.<br><br>
+
 ### Consultar Histórico
 
 #### 1.
--> Usuário entra no sistema e em seguida clica em Meus Pedidos.<br>
+-> O Usuário entra no sistema e em seguida clica em Meus Pedidos.<br>
 -> O sistema deverá retornar os pedidos.<br><br>
