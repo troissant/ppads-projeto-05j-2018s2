@@ -4,7 +4,7 @@
 
 ### Plano de Testes dos casos de uso Efetuar Pedido e Acompanhar Pedido: <br><br>
 
-###Efetuar Pedido
+### Efetuar Pedido
 
 #### 1.
 ->O Usuário entra no sistema e em seguida clica em Farmácias.<br>
@@ -22,4 +22,7 @@
 ->O sistema deverá retornar uma lista de pedidos feitos juntamente com seus status.  <br><br>
 
 ### Acompanhar Pedido
--> Usuário entra no sistema e clica em Meus Pedidos.
+
+#### 1.
+-> Usuário entra no sistema e em seguida clica em Meus Pedidos.<br>
+-> O sistema deverá retornar os pedidos.<br><br>
